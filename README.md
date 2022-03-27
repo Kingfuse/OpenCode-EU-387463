@@ -8,7 +8,7 @@ Instructions:
     
 Support
 
-    Auto-GuildQuest - https://github.com/Kingfuse/Auto-Guildquest
+    .Auto-GuildQuest - https://github.com/Kingfuse/Auto-Guildquest
     
     fly-forever - https://github.com/Kingfuse/Fly-forever
 
