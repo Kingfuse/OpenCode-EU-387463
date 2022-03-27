@@ -1,12 +1,15 @@
 # OpenCode-EU-387463
 
-GF v115.2 Uptdate
+GF v115.2 Uptdate:
 
 Instructions:
 
+
    Move file in folder opcodes to \TeraToolbox\data\opcodes
     
-Support
+    
+Support:
+
 
    Auto-GuildQuest - https://github.com/Kingfuse/Auto-Guildquest
     
