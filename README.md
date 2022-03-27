@@ -4,14 +4,14 @@ GF v115.2 Uptdate
 
 Instructions:
 
-    Move file in folder opcodes to \TeraToolbox\data\opcodes
+   Move file in folder opcodes to \TeraToolbox\data\opcodes
     
 Support
 
-    .Auto-GuildQuest - https://github.com/Kingfuse/Auto-Guildquest
+   Auto-GuildQuest - https://github.com/Kingfuse/Auto-Guildquest
     
-    fly-forever - https://github.com/Kingfuse/Fly-forever
+   fly-forever - https://github.com/Kingfuse/Fly-forever
 
-    Cmd-channel - https://github.com/Kingfuse/Cmd-channel
+   Cmd-channel - https://github.com/Kingfuse/Cmd-channel
 
-    Salchy-Pet-Skill - https://github.com/Kingfuse/Salchypetskill
+   Salchy-Pet-Skill - https://github.com/Kingfuse/Salchypetskill
